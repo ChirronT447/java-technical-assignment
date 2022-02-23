@@ -1,0 +1,23 @@
+[
+  {
+    "name": "potato",
+    "type": "vegetable",
+    "price": "1.30",
+    "per": "1kg",
+    "purchaseType": "WEIGHT"
+  },
+  {
+    "name": "raspberry",
+    "type": "fruit",
+    "price": "3",
+    "per": "1",
+    "purchaseType": "UNIT"
+  },
+  {
+    "name": "milk",
+    "type": "dairy",
+    "price": "1.30",
+    "per": "2L",
+    "purchaseType": "WEIGHT"
+  }
+]
